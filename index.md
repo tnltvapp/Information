@@ -1,8 +1,5 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tnltvapp/live1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
@@ -15,23 +12,15 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+About us
+TNL TV is an English and Sinhala language television channel in Sri Lanka owned by Telshan Network. Launched in 1993, it was one of Sri Lanka's first privately owned television channels. Telshan Network chairman Shan Wickremesinghe is the brother of Prime Minister Ranil Wickremesinghe.
 
-1. Numbered
-2. List
+  
+UNDER TNLTV PRIVERCY POLICY: COPYRIGHTS
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tnltvapp/live1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Our Contacts
+7B. Tower Building, Bambalapitiya,
+Colombo, SL
+Phone: +94 112 706 124
+Fax: +94 112 706 125
+Email: info@tnltv.lk
